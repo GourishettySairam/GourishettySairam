@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=GourishettySairam&color=blue&style=plastic)
 
-- Iam a JAVA Lover :heart:
+- JAVA Lover :heart:
 
 - Dream company : Salesforce :revolving_hearts:
 
